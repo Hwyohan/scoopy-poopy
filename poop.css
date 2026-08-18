@@ -1,8 +1,22 @@
+
+#nav {
+    width: 100vw;
+    height: 100px;
+    background-color: aquamarine;
+    position: fixed;
+    
+}
+
 .block1 {
     width: 100vw;
     height: 100px;
     background-color: #f0e3ce;
     position: absolute;
     top: 100px;
-    left: 300px;
+    left: 0px;
+}
+
+.block2 {
+    height: 2000px;
+    background-color: antiquewhite;
 }
